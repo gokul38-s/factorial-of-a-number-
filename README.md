@@ -54,12 +54,13 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="972" height="589" alt="image" src="https://github.com/user-attachments/assets/80fb8a6e-4ca0-4906-8425-120eedff00a5" />
 
 ---
 MANUAL CALCULATIONS
 
----
+<img width="1540" height="1518" alt="image" src="https://github.com/user-attachments/assets/1bb7c834-a13e-49b1-85e4-31df37b3acab" />
+
 
 RESULT
 
